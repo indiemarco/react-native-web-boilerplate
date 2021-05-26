@@ -10,3 +10,4 @@
 
 - [esbuild & react-native-web](https://dev.to/dalcib/esbuild-react-native-web-i-afn)
 - [create-react-app](https://github.com/facebook/create-react-app)
+- [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)

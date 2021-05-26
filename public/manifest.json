@@ -1,6 +1,6 @@
 {
-  "short_name": "Monorepo",
-  "name": "Monorepo",
+  "short_name": "RNW",
+  "name": "React Native Web App",
   "icons": [
     {
       "src": "favicon.ico",
